@@ -1,6 +1,9 @@
-# Animated Website Front-End
+# Works website Replica
 
 This repository contains the front-end code for an animated website built using HTML, CSS, and JavaScript. The website features smooth scrolling effects powered by Locomotive Scroll and includes various animations to enhance the user experience.
+
+# Deploy Link
+https://glittery-queijadas-fcdc4d.netlify.app/
 
 ## Features
 
@@ -20,7 +23,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   https://github.com/Ravi-1606/Animated-website-with-smooth-scrolling-powered-by-Locomotive-Scroll.
+   https://github.com/Ravi-1606/Works-website-Replica.git
    
 2. Navigate to the project directory:
    
